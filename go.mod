@@ -1,4 +1,4 @@
-module github.com/netinternet/kpsclient
+module kps
 
 go 1.23.0
 
