@@ -4,12 +4,12 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
-	"kps"
 	"log"
 	"os"
 	"time"
 
 	"github.com/joho/godotenv"
+	kpsclient "github.com/netinternet/kpsclient"
 )
 
 func main() {
@@ -23,10 +23,10 @@ func main() {
 		log.Fatal("KPS_USERNAME ve KPS_PASSWORD env değişkenlerini ayarlayın")
 	}
 
-	client := kps.New(username, password, nil)
+	client := kpsclient.New(username, password, nil)
 
 	// Örnek sorgu
-	req := kps.QueryRequest{
+	req := kpsclient.QueryRequest{
 		TCNo:       "99999999999",
 		FirstName:  "JOHN",
 		LastName:   "DOE",
